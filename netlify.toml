@@ -25,3 +25,7 @@
   from = "/privacy"
   to = "/privacy.html"
   status = 200
+[[redirects]]
+  from = "/membership"
+  to = "/index.html"
+  status = 200
