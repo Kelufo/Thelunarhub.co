@@ -2,26 +2,11 @@
   functions = "netlify/functions"
 
 [[redirects]]
-  from = "/findyourpsychicreader"
-  to = "/index.html"
-  status = 200
-
-[[redirects]]
-  from = "/jointhepsychicteam"
-  to = "/index.html"
-  status = 200
-
-[[redirects]]
   from = "/tarot"
   to = "/tarot.html"
   status = 200
 
 [[redirects]]
-  from = "/terms"
-  to = "/terms.html"
-  status = 200
-
-[[redirects]]
-  from = "/privacy"
-  to = "/privacy.html"
-  status = 200
+  from = "/membership"
+  to = "/#screen-membership"
+  status = 302
